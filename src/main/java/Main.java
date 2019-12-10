@@ -8,7 +8,7 @@ public class Main{
         //Complete this constructor
 
         computeEntropy();
-        computeAvgLength();
+        computeAvgLengthByFirstChar();
         Set pairs = calculateMinPairDist();
     }
 
@@ -16,7 +16,7 @@ public class Main{
         //Fill this function
     }
 
-    private void computeAvgLength() {
+    private void computeAvgLengthByFirstChar() {
         //Fill this function
 
     }
