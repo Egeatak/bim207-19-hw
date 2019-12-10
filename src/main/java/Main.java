@@ -9,7 +9,7 @@ public class Main{
 
         computeEntropy();
         computeAvgLength();
-        Set pairs = calculateFactor();
+        Set pairs = calculateMinPairDist();
     }
 
     private void computeEntropy() {
@@ -21,7 +21,7 @@ public class Main{
 
     }
 
-    private Set calculateFactor() {
+    private Set calculateMinPairDist() {
         //Fill this function
 
 
